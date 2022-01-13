@@ -5,7 +5,7 @@
 
 I’m matt and i love coding because it allows me to bringing ideas to life ✨
 <br/>
-I am a self taught full stack developer specializing in the below the stack:
+I am a full stack web developer specializing in the below technologies:
 <br/>
 - React
 - Javascript
