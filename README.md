@@ -5,6 +5,15 @@
 
 I’m matt and i love coding because it allows me to bringing ideas to life ✨
 <br/>
+I am a self taught full stack developer specializing in the below the stack:
+<br/>
+- React
+- Javascript
+- Firebase
+- NextJS
+- NodeJS
+<hr/>
+
 *Checkout me on tiktok, youtube and instagram as a i document my journey **@mattlovestech**.*
 <br/>
 
