@@ -14,8 +14,15 @@ I am a full stack web developer specializing in the below technologies:
 - NodeJS
 <hr/>
 
+### Projects I'm Proud of <3
+- <a href="http://irrcalculator.xyz"> IRR Caluclator </a>
+- <a href="http://thriftybabes.com"> Thrifty Babes </a>
+
+
 *Checkout me on tiktok, youtube and instagram as a i document my journey **@mattlovestech**.*
 <br/>
+
+
 
 <!---
 mattlovestech/mattlovestech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
