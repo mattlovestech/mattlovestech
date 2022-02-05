@@ -15,8 +15,9 @@ I am a full stack web developer specializing in the below technologies:
 <hr/>
 
 ### Projects I'm Proud of <3
+- <a href="http://hbcuhex.com"> HBCU Hex - Find the colors and hex codes of any HBCU</a>
 - <a href="http://thriftybabes.com"> Thrifty Babes - Discounts website</a>
-- <a href="http://irrcalculator.xyz"> IRR Caluclator - Internal Rate of Return Helper</a>
+- <a href="http://irrcalculator.xyz"> IRR Caluclator - Easily calculate the Internal Rate of Return of an investment</a>
 
 
 *Checkout me on tiktok, youtube and instagram as a i document my journey **@mattlovestech**.*
