@@ -20,7 +20,7 @@ I am a full stack web developer specializing in the below technologies:
 - <a href="http://irrcalculator.xyz"> IRR Caluclator - Easily calculate the Internal Rate of Return of an investment</a>
 
 
-*Checkout me on tiktok, youtube and instagram as a i document my journey **@mattlovestech**.*
+
 <br/>
 
 
