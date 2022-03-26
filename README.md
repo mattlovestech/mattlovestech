@@ -16,7 +16,6 @@ I am a full stack web developer specializing in the below technologies:
 
 ### Projects I'm Proud of 🥰
 - <a href="http://hbcuhex.com"> HBCU Hex - Find the colors and hex codes of any HBCU</a>
-- <a href="http://thriftybabes.com"> Thrifty Babes - Discounts website</a>
 - <a href="http://irrcalculator.xyz"> IRR Caluclator - Easily calculate the Internal Rate of Return of an investment</a>
 
 
