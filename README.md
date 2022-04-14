@@ -3,9 +3,9 @@
 # Hi There 😎
 <!-- <img height="auto" width="250px" src="https://static.wixstatic.com/media/d2d712_47f911e6c679492ab2b59ae1d6e4ad7c~mv2.jpg/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/d2d712_47f911e6c679492ab2b59ae1d6e4ad7c~mv2.jpg"/> -->
 
-I’m matt and i enjoy building proototypes and small projects on the weekends 🤩
+I enjoy building proototypes and small projects on the weekends 🤩
 <br/>
-I am a full stack web developer specializing in the below technologies:
+I am a full stack web developer primarily working with the below technologies:
 <br/>
 - React
 - Javascript
