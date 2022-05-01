@@ -1,20 +1,12 @@
 
 
-# Hi There 😎
+
 <!-- <img height="auto" width="250px" src="https://static.wixstatic.com/media/d2d712_47f911e6c679492ab2b59ae1d6e4ad7c~mv2.jpg/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/d2d712_47f911e6c679492ab2b59ae1d6e4ad7c~mv2.jpg"/> -->
 
 I enjoy building proototypes and small projects on the weekends 🤩
 <br/>
-I am a full stack web developer primarily working with the below technologies:
-<br/>
-- React
-- Javascript
-- Firebase
-- NextJS
-- NodeJS
-<hr/>
 
-### Projects I'm Proud of 🥰
+#### Projects I'm Proud of 🥰
 - <a href="http://hbcuhex.com"> HBCU Hex - Find the colors and hex codes of any HBCU</a>
 - <a href="http://irrcalculator.xyz"> IRR Caluclator - Easily calculate the Internal Rate of Return of an investment</a>
 
