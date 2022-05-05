@@ -1,7 +1,7 @@
 
 ### hi i'm matt 👋🏿
 
-I'm orginially from Atlanta area and spent a few years in Seatlle, now im back living in Atlanta, GA. I previously worked for [@Microsoft](https://microsft.com) and [@NCR](https://ncr.com) in Business Development and Product roles. 
+I'm orginially from the Atlanta area and spent a few years in Seatlle, now im back living in Atlanta, GA. I previously worked for [@Microsoft](https://microsft.com) and [@NCR](https://ncr.com) in Business Development and Product roles. 
  
 --------
 ### A few bytes about me 👾
