@@ -1,13 +1,11 @@
 
 
-### 😊 brief bio 
+### 😊  brief bio 
 
 I'm orginially from Atlanta area and spent a few years in Seatlle, now im back living in Atlanta, GA. I previously  worked for [@NCR](https://ncr.com) and [@Microsoft](https://microsft.com) in BD and Product roles. 
  
 --------
-### More details about me  
-
-#### 📍  where I live: Atlanta, GA, USA
+### More details about me ⌘
 #### 🏫  where I went to school: [Morehouse](https://www.morehouse.edu/) 
 #### 📫  how to reach me: [Linkedin](http://linkedin.com/in/matthewlmanning)
 #### 🥰  what gets me talking: Anything NFL/College football, Real Estate, and/or History related
