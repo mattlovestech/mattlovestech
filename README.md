@@ -1,11 +1,11 @@
 
 
-### Hi 
+### 😊 brief bio 
 
 I'm orginially from Atlanta area and spent a few years in Seatlle, now im back living in Atlanta, GA. I previously  worked for [@NCR](https://ncr.com) and [@Microsoft](https://microsft.com) in BD and Product roles. 
  
 --------
-### About me 
+### More details about me  
 
 #### 📍  where I live: Atlanta, GA, USA
 #### 🏫  where I went to school: [Morehouse](https://www.morehouse.edu/) 
