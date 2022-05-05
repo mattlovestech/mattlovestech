@@ -6,8 +6,8 @@ I'm orginially from Atlanta area and spent a few years in Seatlle, now im back l
 --------
 ### A few bytes about me 👾
 
-#### 🏫  where I went to school: [Morehouse](https://www.morehouse.edu/) 
 #### 📫  how to reach me: [Linkedin](http://linkedin.com/in/matthewlmanning)
+#### 🏫  where I went to school: [Morehouse](https://www.morehouse.edu/) 
 #### 🥰  what gets me talking: Anything NFL/College football 🏈, Real Estate, and/or History related
 #### ⛳️  how i stay active: playing tennis, golf, and basketball
 
