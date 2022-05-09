@@ -1,5 +1,5 @@
-
-### hi 👋🏿👋🏿👋🏿👋🏿
+![atl image](https://www.omnihotels.com/-/media/digex/destination-city/city-atlanta-2880x1870.jpg?la=en&h=1286&w=1980&mw=1980&hash=1FFA41E317C725CF980A31372EF7D792E4AC0882)
+### hi there 👋🏿
 
 I'm orginially from the Atlanta area and spent a few years in Seatlle, now im back living in Atlanta, GA. I previously worked for [@Microsoft](https://microsft.com) and [@NCR](https://ncr.com) in Business Development and Product roles. 
  
