@@ -1,8 +1,8 @@
-![atl image](https://www.omnihotels.com/-/media/digex/destination-city/city-atlanta-2880x1870.jpg?la=en&h=1286&w=1980&mw=1980&hash=1FFA41E317C725CF980A31372EF7D792E4AC0882)
 ### hi there 👋🏿
 
 I'm orginially from the Atlanta area and spent a few years in Seatlle, now im back living in Atlanta, GA. I previously worked for [@Microsoft](https://microsft.com) and [@NCR](https://ncr.com) in Business Development and Product roles. 
- 
+
+
 --------
 ### A few bytes about me 👾
 
@@ -10,7 +10,8 @@ I'm orginially from the Atlanta area and spent a few years in Seatlle, now im ba
 #### 🏫  where I went to school: [Morehouse](https://www.morehouse.edu/) 
 #### 🥰  what gets me talking: Anything NFL/College football 🏈, Real Estate, and/or History related
 #### ⛳️  how i stay active: playing tennis, golf, and basketball
-
+--------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattlovestech&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 --------
 ### Projects I'm proud of 🥰
 
