@@ -8,7 +8,7 @@ I'm orginially from the Atlanta area and spent a few years in Seatlle, now im ba
 
 #### 📫  how to reach me: [Linkedin](http://linkedin.com/in/matthewlmanning)
 #### 🏫  where I went to school: [Morehouse](https://www.morehouse.edu/) 
-#### 🥰  what gets me talking: Anything NFL/College football 🏈, Real Estate, and/or History related
+#### 🥰  what gets me talking: Outside of tech...anything NFL/College football 🏈, Real Estate, and/or History related
 #### ⛳️  how i stay active: playing tennis, golf, and basketball
 --------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattlovestech&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
