@@ -4,12 +4,14 @@ mattlovestech/mattlovestech is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <!---
- <img src="https://pbs.twimg.com/profile_images/1273675768388882432/cNaFCbrS_400x400.jpg" width="150px">
+  <img src="https://pbs.twimg.com/profile_images/1273675768388882432/cNaFCbrS_400x400.jpg" width="250px">  
+
 --->
+
 
 <p align="center">
   <br><br>
-    <img src="https://acegif.com/wp-content/uploads/loading-13.gif" width="80px" align="center"><br/><br/>
+  <img src="https://media3.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" width="250px" align="center"> <br/><br/>
   <samp>
 Hi there 👋🏿<br/>
 A few bytes about me  👾 <br/>
@@ -18,6 +20,9 @@ A few bytes about me  👾 <br/>
 ⛳️  how i stay active: playing tennis, golf, and basketball <br/>
 🏠  what city is home: <a href="https://discoveratlanta.com/"> Atlanta </a> <br/>
 <br/>
+
+
+
   
   </samp>
   
