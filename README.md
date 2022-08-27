@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <br><br>
-  <img src="https://media3.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" width="250px" align="center"> <br/><br/>
+  <img src="https://media3.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" width="325px" align="center"> <br/><br/>
   <samp>
 A few bytes about me  👾 <br/>
 ------------------ <br/>
