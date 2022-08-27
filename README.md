@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
   <br><br>
   <img src="https://media3.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" width="250px" align="center"> <br/><br/>
   <samp>
-Hi there 👋🏿<br/>
-A few bytes about me  👾 <br/>
-🏫  where I went to school: <a href="http//morehouse.edu"> Morehouse </a> <br/>
+Hi there 👋🏿 - A few bytes about me  👾 <br/>
+------------------ <br/>
+🏫  where I went to school: <a href="http//morehouse.edu"> Morehouse </a> <br/> 
 🥰  what gets me talking: anything football 🏈 or history related <br/>
 ⛳️  how i stay active: playing tennis, golf, and basketball <br/>
 🏠  what city is home: <a href="https://discoveratlanta.com/"> Atlanta </a> <br/>
