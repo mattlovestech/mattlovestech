@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <br><br>
   <img src="https://media3.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" width="325px" align="center"> <br/><br/>
   <samp>
- here are a few bytes about me  👾 <br/>
+ a few bytes about me  <br/>
 ------------------ <br/>
 🏫  where I went to school: <a href="http//morehouse.edu"> morehouse </a> <br/> 
 🥰  what gets me talking: anything football 🏈 or history related <br/>
