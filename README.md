@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 #### [@mattlovestech](https://mattlovestech.com)
 <p align="center">
   <br><br>
-  <img src="https:/![image_processing20210909-31499-o8f33k](https://user-images.githubusercontent.com/45296246/206354468-6a266eed-5ab6-4598-8c18-81ba63272816.gif)
-/media3.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" width="325px" align="center"> <br/><br/>
+  <img src="https://user-images.githubusercontent.com/45296246/206354468-6a266eed-5ab6-4598-8c18-81ba63272816.gif"
+ width="325px" align="center"> <br/><br/>
   <samp>
 bytes about me  <br/>
 ------------------ <br/>
