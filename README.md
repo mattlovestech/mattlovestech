@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 #### [@mattlovestech](https://mattlovestech.com)
 <p align="center">
   <br><br>
-  <img src="https://media3.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" width="325px" align="center"> <br/><br/>
+  <img src="http://25.media.tumblr.com/661e0b5c6f6ea9b4685aa700a69ada2e/tumblr_mk60illIWp1qdrzxno1_500.gif"
+ width="325px" align="center" > <br/><br/>
   <samp>
 bytes about me  <br/>
 ------------------ <br/>
