@@ -19,7 +19,7 @@ bytes about me  <br/>
 🏫  alma mater == <a href="http//morehouse.edu"> morehouse </a> <br/> 
 🥰  what gets me talking == anything  🏈  or history related <br/>
 how i stay active == 🎾 + ⛳ + 🏀 + 🏋️‍♂️ <br/>
-🏠   home == <a href="https://discoveratlanta.com/"> atlanta </a> <br/>
+🏠   location == <a href="https://discoveratlanta.com/"> new york city </a> <br/>
 
 <br/>
 
