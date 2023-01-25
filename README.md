@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
   <samp>
 bytes about me  <br/>
 ------------------ <br/>
-🏫  alma mater == <a href="http//morehouse.edu"> morehouse </a> <br/> 
+🏫  alma mater == <a href="https://www.linkedin.com/in/matthewlmanning/"> morehouse </a> <br/> 
 🥰  what gets me talking == anything  🏈  or history related <br/>
 how i stay active == 🎾 + ⛳ + 🏀 + 🏋️‍♂️ <br/>
-🏠   location == <a href="https://discoveratlanta.com/"> new york city </a> <br/>
+🏠   location ==  new york city <br/>
 
 <br/>
 
