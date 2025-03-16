@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
   <samp>
 bytes about me  <br/>
 ------------------ <br/>
+Currently a graduate student @ Columbia University. 
 🏫  alma mater = <a href="https://www.linkedin.com/in/matthewlmanning/"> morehouse </a> <br/> 
 🥰  what gets me talking = anything  🏈  or history related <br/>
 how i stay active = 🎾 + ⛳ + 🏋️‍♂️ <br/>
